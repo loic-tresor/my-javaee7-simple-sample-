@@ -1,9 +1,11 @@
-<<<<<<< Updated upstream
-fichier 1
-ligne 1
-ligne 2
+Ligne
+Ligne 2
+Ligne 3
 modif experiment
+<<<<<<< HEAD
 =======
 modif master
 >>>>>>> Stashed changes
 modif master
+=======
+>>>>>>> experiment
